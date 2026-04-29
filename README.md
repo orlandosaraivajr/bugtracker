@@ -200,7 +200,14 @@ FREQUÊNCIA DE OCORRÊNCIA
 [Sempre (100%) / Frequente (~75%) / Ocasional (~50%) / Raro (~10%)]
 ```
 
----
+## Capturas de tela
+
+![Print da Tela](imagem1.png)
+Tela Inicial do **Mini BugTracker**
+
+![Print da Tela](imagem2.png)
+Tela para registro de defeito após pressionar **CTRL + N**
+
 
 ## Classificações disponíveis
 
